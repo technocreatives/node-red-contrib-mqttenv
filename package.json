@@ -1,5 +1,5 @@
 {
-  "name": "node-red-contrib-mqttenv",
+  "name": "node-red-contrib-mqtt-environment",
   "version": "1.0.0",
   "description": "Mqtt node for Node-Red that can read environment varibles for mqtt broker uri.",
   "main": "index.js",
