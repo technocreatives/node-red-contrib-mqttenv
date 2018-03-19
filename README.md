@@ -7,7 +7,7 @@ Credits to artcom for his [node-red-contrib-mqtt-env](https://github.com/artcom/
 ## Install
 Run the following command in your node-red directory.
 ```
-npm install node-red-contrib-mqttenv
+npm install node-red-contrib-mqtt-environment
 ```
 
 ## Usage
